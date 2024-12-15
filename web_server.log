@@ -1,0 +1,182 @@
+[2024-12-15 23:10:02] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+
+ | Status: 200
+[2024-12-15 23:10:02] IP: 127.0.0.1 | Request: GET /css/styles.css HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+
+ | Status: 200
+[2024-12-15 23:10:02] IP: 127.0.0.1 | Request: GET /js/script.js HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+
+ | Status: 200
+[2024-12-15 23:10:02] IP: 127.0.0.1 | Request: GET /images/profile-Reqi.jpg HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/css/styles.css
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+
+ | Status: 200
+[2024-12-15 23:10:02] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Upgrade: websocket
+Origin: http://localhost:8080
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: P06i9aGbZSefnIuQL52wog==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+ | Status: 200
+[2024-12-15 23:10:18] IP: 127.0.0.1 | Request: GET /reqi.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: 429 Too Many Requests | Status: 429
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: 429 Too Many Requests | Status: 429
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: GET / HTTP/1.1
+Host: localhost:8080
+User-Agent: python-requests/2.25.1
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ | Status: 200
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: 429 Too Many Requests | Status: 429
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: 429 Too Many Requests | Status: 429
+[2024-12-15 23:11:58] IP: 127.0.0.1 | Request: 429 Too Many Requests | Status: 429
